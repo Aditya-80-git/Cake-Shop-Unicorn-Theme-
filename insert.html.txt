@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<meta name="Author" content="Aditya"/>
+<title>Cake Point </title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+<h3>Upto Rs. 200 OFF on the First Order. T&amp;C apply.</h3>
+<nav id="nav">
+<a href="#cakes">Cakes</a>
+<a href="#about">About</a>
+<div id="logo">
+<img id="img1" src="https://res.cloudinary.com/dn1zh15pp/image/upload/v1783767176/Screenshot_2026-07-11_162122_esb1bx.svg" alt="Logo">
+</div>
+<a href="#reviews">Reviews</a>
+<a href="#contact">Contact</a>
+</nav>
+</header>
+
+<div id="desc">
+<h2>Cakes🎂</h2>
+<h4>✦•┈๑⋅⋯ ⋯⋅๑┈·✦</h4>
+<p>Any celebration, whether a cozy gathering or an extravagent party,<br> is
+incomplete without cake!<br> We offer a wide range of handcrafted speciality
+cakes that are a treat to the eyes and also the taste buds.</p>
+<div id="img2">
+<img src="https://res.cloudinary.com/dn1zh15pp/image/upload/v1783790881/Screenshot_2026-07-11_225550-removebg-preview_pkny5t.svg" alt="Cake illustration">
+</div>
+</div>
+
+<section id="cakes">
+<div class="menu-panel">
+<h1>⋆CAKES⋆˚࿔</h1>
+<p id="decora">✦.────.✦</p>
+
+<div class="card-grid">
+
+<div class="cake-card">
+<img src="https://res.cloudinary.com/dn1zh15pp/image/upload/v1783823812/Screenshot_2026-07-12_080344_oiqms9.svg" alt="Tiramisu Cake image PNG" class="cake-img">
+<h4>Tiramisu Cake</h4>
+<p class="cake-tag">✦Luscious.✦˖</p>
+<p class="cake-price">˗ˏˋ₹2150ˎˊ˗</p>
+<button class="order-btn">ORDER NOW</button>
+</div>
+
+<div class="cake-card">
+<img src="https://res.cloudinary.com/dn1zh15pp/image/upload/v1783823813/Screenshot_2026-07-12_080410_eccboy.svg" alt="Tiered Temptation Cake image PNG" class="cake-img">
+<h4>Tiered Temptation Cake</h4>
+<p class="cake-tag">✦Sumptuous.✦ ݁˖</p>
+<p class="cake-price">˗ˏˋ₹1900ˎˊ˗</p>
+<button class="order-btn">ORDER NOW</button>
+</div>
+
+<div class="cake-card">
+<img src="https://res.cloudinary.com/dn1zh15pp/image/upload/v1783835351/Screenshot_2026-07-12_111321_lrx0bq.svg" alt="Opera Cake image PNG" class="cake-img">
+<h4>Opera Cake</h4>
+<p class="cake-tag">✦Decadent.✦ ݁˖</p>
+<p class="cake-price">˗ˏˋ₹1500ˎˊ˗</p>
+<button class="order-btn">ORDER NOW</button>
+</div>
+
+<div class="cake-card">
+<img src="https://res.cloudinary.com/dn1zh15pp/image/upload/v1783835354/Screenshot_2026-07-12_111333_ri5eps.svg" alt="Chocoholic Cake image PNG" class="cake-img">
+<h4>Chocoholic Cake</h4>
+<p class="cake-tag">✦chocolatey.✦ ݁˖</p>
+<p class="cake-price">˗ˏˋ₹750ˎˊ˗</p>
+<button class="order-btn">ORDER NOW</button>
+</div>
+
+<div class="cake-card">
+<img src="https://res.cloudinary.com/dn1zh15pp/image/upload/v1783836781/Screenshot_2026-07-12_111814_1_sfxh8k.svg" alt="Blueberry Cheesecake image PNG" class="cake-img">
+<h4>Blueberry Cheesecake</h4>
+<p class="cake-tag">✦Tangy & Velvety.✦</p>
+<p class="cake-price">˗ˏˋ₹960ˎˊ˗</p>
+<button class="order-btn">ORDER NOW</button>
+</div>
+
+<div class="cake-card">
+<img src="https://res.cloudinary.com/dn1zh15pp/image/upload/v1783836801/Screenshot_2026-07-12_111844_zp6tyk.svg" alt="Eggless Rich Chocolate Cake image PNG" class="cake-img">
+<h4>Eggless Rich Chocolate Cake</h4>
+<p class="cake-tag">✦Rich & Fudgy.✦ ݁˖</p>
+<p class="cake-price">˗ˏˋ₹680ˎˊ˗</p>
+<button class="order-btn">ORDER NOW</button>
+</div>
+
+</div>
+<p class="section-footer-deco">݁𒅒𒈔𒅒𒇫𒄆</p>
+</div>
+</section>
+
+<section id="reviews">
+<div class="review-grid">
+
+<p class="Review">⌯⌲
+<img src="https://i.ibb.co/YFv9WhnL/Screenshot-2026-07-09-082020-removebg-preview.png" alt="User profile pic">
+<em><i>POLARᝰ.ᐟ</i>:-->⭐⭐⭐⭐⭐ <br>
+"Got a ✦chocolatey cake for a small family thing,<br> everyone kept asking who made it lol. <br>will def order again for my sister's birthday next month⁠"♡⁠♡⁠♡...<span class="state">--WEST BENGAL</span>
+</em>
+</p>
+
+<p class="Review">⌯⌲
+<img src="https://i.ibb.co/HpRCgYNK/Screenshot-2026-07-09-081956-removebg-preview.png" alt="User profile pic">
+<em><i>KOALAᨳଓ.ᐟ</i>:-->⭐⭐⭐⭐⭐ <br>
+"ordered a chocolate cake for my mom's bday last week,<br> honestly didn't expect much but it was SO good. <br>not overly sweet like most bakery cakes. she loved it 😊!"ꨄ︎ꨄ︎...<span class="state">--BIHAR</span>
+</em>
+</p>
+
+<p class="Review">⌯⌲
+<img src="https://i.ibb.co/PsTF3sVR/Screenshot-2026-07-09-102556-removebg-preview.png" alt="User profile pic">
+<em><i>SHORTIE☣︎✌︎.ᐟ</i>:-->⭐⭐⭐⭐☆ <br>
+"red velvet was really good, texture was perfect. only reason 4 stars is delivery was like 30 mins late but they called ahead to let me know so it's fine"𖤍𖤍...<span class="state">--MAHARASHTRA</span>
+</em>
+</p>
+
+<p class="Review">⌯⌲
+<img src="https://i.ibb.co/CpJ7yc9q/Screenshot-2026-07-12-125543-removebg-preview.png" alt="User profile pic">
+<em><i>Batman​𓆩𓆪.ᐟ</i>:-->⭐⭐⭐⭐⭐ <br>
+"I sent a reference pic for my friend's cake and,<br>was honestly worried it wouldn't turn out right but they nailed it.<br> he was so happy, worth every rupee"​𓆩(◣_◢)𓆪...<span class="state">--UTTAR PRADESH</span>
+</em>
+</p>
+
+<div id="adi">
+<p class="write-icon">⌯⌲</p>
+<img src="https://i.ibb.co/Y7PJkCWM/Screenshot-2026-07-09-103623-removebg-preview.png" alt="User profile pic">
+<em>☆☆☆☆☆<br>
+<form id="Submit">
+<label for="write">Write Your Review❦</label>
+<input id="write" type="text" placeholder="˚˖˚˖˚˖˚˖.....">
+<input type="submit">
+</form>
+</em>
+</div>
+
+</div>
+</section>
+
+<footer id="contact">
+<div class="footer-columns">
+
+<div class="footer-brand">
+<img src="https://res.cloudinary.com/dn1zh15pp/image/upload/v1783767176/Screenshot_2026-07-11_162122_esb1bx.svg" alt="Logo" class="footer-logo">
+</div>
+
+<div class="footer-contact">
+<h4>Contact Us</h4>
+<address>
+<p>˗ˏˋ🏠︎ 123, cake Street</p>
+<p>Patna, Bihar</p>
+<a href="tel:+919897198971">˗ˏˋ ☏ ˎˊ˗ +91 9897198971</a><br>
+<a href="mailto:relcof@gmail.com">˗ˏˋ✉ˎˊ˗ relcof@gmail.com</a>
+</address>
+</div>
+
+<p id="copyright">
+© 2026 All Rights Reserved.<br>
+Made with 𖹭𓃶 by ĄĐɪʈʏA
+</p>
+
+</div>
+</footer>
+
+</body>
+</html>

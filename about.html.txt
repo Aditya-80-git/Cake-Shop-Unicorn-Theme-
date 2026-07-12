@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<meta name="Author" content="Aditya"/>
+<title>About - Cake Point</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+<h3>Upto Rs. 200 OFF on the First Order. T&amp;C apply.</h3>
+<nav id="nav">
+<a href="index.html#cakes">Cakes</a>
+<a href="about.html">About</a>
+<div id="logo">
+<img id="img1" src="https://res.cloudinary.com/dn1zh15pp/image/upload/v1783767176/Screenshot_2026-07-11_162122_esb1bx.svg" alt="Logo">
+</div>
+<a href="index.html#contact">Contact</a>
+<a href="index.html#reviews">Reviews</a>
+</nav>
+</header>
+
+<!--About Content [START]-->
+<section id="about-content" class="about-content">
+<h1>Our Story</h1>
+<img src="https://res.cloudinary.com/dn1zh15pp/image/upload/v1783860668/Screenshot_2026-07-12_181531_vf5uta.svg" alt="About Cake Point" class="about-img">
+<p>Theobroma means 'Food of the Gods' in Greek,<br> befitting our exclusive and indulgent range of offerings that include brownies, cakes, desserts, chocolates, breads, and savouries.<br>
+
+From our humble beginnings in 2004,<br> when the first Theobroma pastry store opened its doors at the iconic Cusrow Baug at Colaba Causeway (Mumbai),<br> we've grown to become a Pan-India chain of patisseries with stores in over 30 cities.<br>
+
+Our mission is to spread happiness by serving smiles on a plate,<br>and this journey continues as we open Theobroma patisseries across the country.</p>
+<img src="https://res.cloudinary.com/dn1zh15pp/image/upload/v1783861782/Screenshot_2026-07-12_182122-removebg-preview_1_dooplz.png" style="margin-top:-30px;margin-bottom:-30px;">
+<h1 style="color:#DBA637;background:#FFFFFF;">Our Promise</h1>
+<div style="font-size:clamp(20px,2vw,40px);text-align:center;padding-left:20px;"">
+<h5 style="color:#C59A4C;">AUTHENTIC RECIPES</h5>
+<p>Our products are based on traditional<br>
+home-style recipes, using fresh<br>
+ingredients.</p>
+
+<h5 style="color:#C59A4C;">BAKED WITH LOVE</h5>
+<p>Our passion for baking is poured into every recipe,<br> serving smiles on a plate everyday.</p>
+
+<h5 style="color:#C59A4C;">HONESTLY PRICED</h5>
+<p>We constantly strive to offer the best products at the right prices.</p>
+<img src="https://res.cloudinary.com/dn1zh15pp/image/upload/v1783863350/Screenshot_2026-07-12_190506-removebg-preview_jb4cdz.png" style="margin-top:-30px;margin-bottom:-30px;text-align:left;width: 100%;max-width: 200px;height: auto;display: block;margin: 15px auto;border-radius: 12px;">
+
+
+</section>
+<!--About Content [END]-->
+
+<footer id="contact">
+<div class="footer-columns">
+
+<div class="footer-brand">
+<img src="https://res.cloudinary.com/dn1zh15pp/image/upload/v1783767176/Screenshot_2026-07-11_162122_esb1bx.svg" alt="Logo" class="footer-logo">
+</div>
+
+<div class="footer-contact">
+<h4>Contact Us</h4>
+<address>
+<p>˗ˏˋ🏠︎ 123, cake Street</p>
+<p>Patna, Bihar</p>
+<a href="tel:+919897198971">˗ˏˋ ☏ ˎˊ˗ +91 9897198971</a><br>
+<a href="mailto:relcof@gmail.com">˗ˏˋ✉ˎˊ˗ relcof@gmail.com</a>
+</address>
+</div>
+
+<p class="footer-copyright">
+© 2026 All Rights Reserved.<br>
+Made with 𖹭𓃶 by ĄĐɪʈʏA
+</p>
+
+</div>
+</footer>
+
+</body>
+</html>
